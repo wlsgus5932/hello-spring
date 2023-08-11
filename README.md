@@ -1,2 +1,1 @@
-# 스프링 test code, 
-# memory repo => jdbc repo => jpa repository
+# 스프링 test code, memory repository => jdbc repository => jpa repository
